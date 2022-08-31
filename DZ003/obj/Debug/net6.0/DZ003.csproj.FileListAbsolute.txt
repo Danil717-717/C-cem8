@@ -1,0 +1,15 @@
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\bin\Debug\net6.0\DZ003.exe
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\bin\Debug\net6.0\DZ003.deps.json
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\bin\Debug\net6.0\DZ003.runtimeconfig.json
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\bin\Debug\net6.0\DZ003.dll
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\bin\Debug\net6.0\DZ003.pdb
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.csproj.AssemblyReference.cache
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfoInputs.cache
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.AssemblyInfo.cs
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.dll
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\refint\DZ003.dll
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.pdb
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\DZ003.genruntimeconfig.cache
+C:\Users\Данил\Desktop\8sem_C#\C-cem8\DZ003\obj\Debug\net6.0\ref\DZ003.dll
